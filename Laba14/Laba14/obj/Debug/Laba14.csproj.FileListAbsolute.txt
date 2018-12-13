@@ -1,0 +1,13 @@
+C:\Users\Студент\Documents\SharpDevelop Projects\Laba14\Laba14\obj\Debug\Laba14.csprojResolveAssemblyReference.cache
+C:\Users\Студент\Documents\SharpDevelop Projects\Laba14\Laba14\bin\Debug\Laba14.exe.config
+C:\Users\Студент\Documents\SharpDevelop Projects\Laba14\Laba14\bin\Debug\Laba14.exe
+C:\Users\Студент\Documents\SharpDevelop Projects\Laba14\Laba14\bin\Debug\Laba14.pdb
+C:\Users\Студент\Documents\SharpDevelop Projects\Laba14\Laba14\obj\Debug\Laba14.exe
+C:\Users\Студент\Documents\SharpDevelop Projects\Laba14\Laba14\obj\Debug\Laba14.pdb
+F:\Laba14\Laba14\bin\Debug\Laba14.exe.config
+F:\Laba14\Laba14\bin\Debug\Laba14.exe
+F:\Laba14\Laba14\bin\Debug\Laba14.pdb
+F:\Laba14\Laba14\obj\Debug\Laba14.csprojAssemblyReference.cache
+F:\Laba14\Laba14\obj\Debug\Laba14.csproj.CoreCompileInputs.cache
+F:\Laba14\Laba14\obj\Debug\Laba14.exe
+F:\Laba14\Laba14\obj\Debug\Laba14.pdb
