@@ -1,0 +1,11 @@
+C:\Users\Студент\Documents\SharpDevelop Projects\DllLaba13\DllLaba13\bin\Debug\DllLaba13.dll
+C:\Users\Студент\Documents\SharpDevelop Projects\DllLaba13\DllLaba13\bin\Debug\DllLaba13.pdb
+C:\Users\Студент\Documents\SharpDevelop Projects\DllLaba13\DllLaba13\obj\Debug\DllLaba13.csprojResolveAssemblyReference.cache
+C:\Users\Студент\Documents\SharpDevelop Projects\DllLaba13\DllLaba13\obj\Debug\DllLaba13.dll
+C:\Users\Студент\Documents\SharpDevelop Projects\DllLaba13\DllLaba13\obj\Debug\DllLaba13.pdb
+F:\DllLaba13\DllLaba13\bin\Debug\DllLaba13.dll
+F:\DllLaba13\DllLaba13\bin\Debug\DllLaba13.pdb
+F:\DllLaba13\DllLaba13\obj\Debug\DllLaba13.csprojAssemblyReference.cache
+F:\DllLaba13\DllLaba13\obj\Debug\DllLaba13.csproj.CoreCompileInputs.cache
+F:\DllLaba13\DllLaba13\obj\Debug\DllLaba13.dll
+F:\DllLaba13\DllLaba13\obj\Debug\DllLaba13.pdb
