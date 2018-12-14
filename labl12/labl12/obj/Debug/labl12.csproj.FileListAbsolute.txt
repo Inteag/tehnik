@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\labl12\labl12\bin\Debug\labl12.exe.config
+C:\Users\User\source\repos\labl12\labl12\bin\Debug\labl12.exe
+C:\Users\User\source\repos\labl12\labl12\bin\Debug\labl12.pdb
+C:\Users\User\source\repos\labl12\labl12\obj\Debug\labl12.csprojAssemblyReference.cache
+C:\Users\User\source\repos\labl12\labl12\obj\Debug\labl12.Form1.resources
+C:\Users\User\source\repos\labl12\labl12\obj\Debug\labl12.Properties.Resources.resources
+C:\Users\User\source\repos\labl12\labl12\obj\Debug\labl12.csproj.GenerateResource.cache
+C:\Users\User\source\repos\labl12\labl12\obj\Debug\labl12.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\labl12\labl12\obj\Debug\labl12.exe
+C:\Users\User\source\repos\labl12\labl12\obj\Debug\labl12.pdb
