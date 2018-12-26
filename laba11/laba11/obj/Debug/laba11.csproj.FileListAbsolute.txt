@@ -1,0 +1,26 @@
+C:\Users\Студент\Documents\SharpDevelop Projects\laba11\laba11\bin\Debug\laba11.exe.config
+C:\Users\Студент\Documents\SharpDevelop Projects\laba11\laba11\bin\Debug\laba11.exe
+C:\Users\Студент\Documents\SharpDevelop Projects\laba11\laba11\bin\Debug\laba11.pdb
+C:\Users\Студент\Documents\SharpDevelop Projects\laba11\laba11\obj\Debug\laba11.csprojResolveAssemblyReference.cache
+C:\Users\Студент\Documents\SharpDevelop Projects\laba11\laba11\obj\Debug\laba11.exe
+C:\Users\Студент\Documents\SharpDevelop Projects\laba11\laba11\obj\Debug\laba11.pdb
+C:\Users\Студент\Documents\SharpDevelop Projects\laba11\laba11\obj\Debug\laba11.MainForm.resources
+C:\Users\Студент\Documents\SharpDevelop Projects\laba11\laba11\obj\Debug\laba11.csproj.GenerateResource.Cache
+H:\Теория алгоритмов\laba11\laba11\bin\Debug\laba11.exe.config
+H:\Теория алгоритмов\laba11\laba11\bin\Debug\laba11.exe
+H:\Теория алгоритмов\laba11\laba11\bin\Debug\laba11.pdb
+H:\Теория алгоритмов\laba11\laba11\obj\Debug\laba11.csprojAssemblyReference.cache
+H:\Теория алгоритмов\laba11\laba11\obj\Debug\laba11.MainForm.resources
+H:\Теория алгоритмов\laba11\laba11\obj\Debug\laba11.csproj.GenerateResource.cache
+H:\Теория алгоритмов\laba11\laba11\obj\Debug\laba11.csproj.CoreCompileInputs.cache
+H:\Теория алгоритмов\laba11\laba11\obj\Debug\laba11.exe
+H:\Теория алгоритмов\laba11\laba11\obj\Debug\laba11.pdb
+F:\Файлы\ТА\Лабораторная работа 11\laba11\laba11\bin\Debug\laba11.exe.config
+F:\Файлы\ТА\Лабораторная работа 11\laba11\laba11\bin\Debug\laba11.exe
+F:\Файлы\ТА\Лабораторная работа 11\laba11\laba11\bin\Debug\laba11.pdb
+F:\Файлы\ТА\Лабораторная работа 11\laba11\laba11\obj\Debug\laba11.csprojAssemblyReference.cache
+F:\Файлы\ТА\Лабораторная работа 11\laba11\laba11\obj\Debug\laba11.MainForm.resources
+F:\Файлы\ТА\Лабораторная работа 11\laba11\laba11\obj\Debug\laba11.csproj.GenerateResource.cache
+F:\Файлы\ТА\Лабораторная работа 11\laba11\laba11\obj\Debug\laba11.csproj.CoreCompileInputs.cache
+F:\Файлы\ТА\Лабораторная работа 11\laba11\laba11\obj\Debug\laba11.exe
+F:\Файлы\ТА\Лабораторная работа 11\laba11\laba11\obj\Debug\laba11.pdb
