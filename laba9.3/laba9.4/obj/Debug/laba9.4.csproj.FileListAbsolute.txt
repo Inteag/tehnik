@@ -1,0 +1,17 @@
+C:\Users\студент\Documents\SharpDevelop Projects\laba9.4\laba9.4\obj\Debug\laba9.4.csprojResolveAssemblyReference.cache
+C:\Users\студент\Documents\SharpDevelop Projects\laba9.4\laba9.4\obj\Debug\laba9._.MainForm.resources
+C:\Users\студент\Documents\SharpDevelop Projects\laba9.4\laba9.4\obj\Debug\laba9.4.csproj.GenerateResource.Cache
+C:\Users\студент\Documents\SharpDevelop Projects\laba9.4\laba9.4\bin\Debug\laba9.4.exe.config
+C:\Users\студент\Documents\SharpDevelop Projects\laba9.4\laba9.4\bin\Debug\laba9.4.exe
+C:\Users\студент\Documents\SharpDevelop Projects\laba9.4\laba9.4\bin\Debug\laba9.4.pdb
+C:\Users\студент\Documents\SharpDevelop Projects\laba9.4\laba9.4\obj\Debug\laba9.4.exe
+C:\Users\студент\Documents\SharpDevelop Projects\laba9.4\laba9.4\obj\Debug\laba9.4.pdb
+F:\Файлы\ТА\Лабораторная работа 9\laba9.3\laba9.4\bin\Debug\laba9.4.exe.config
+F:\Файлы\ТА\Лабораторная работа 9\laba9.3\laba9.4\bin\Debug\laba9.4.exe
+F:\Файлы\ТА\Лабораторная работа 9\laba9.3\laba9.4\bin\Debug\laba9.4.pdb
+F:\Файлы\ТА\Лабораторная работа 9\laba9.3\laba9.4\obj\Debug\laba9.4.csprojAssemblyReference.cache
+F:\Файлы\ТА\Лабораторная работа 9\laba9.3\laba9.4\obj\Debug\laba9._.MainForm.resources
+F:\Файлы\ТА\Лабораторная работа 9\laba9.3\laba9.4\obj\Debug\laba9.4.csproj.GenerateResource.cache
+F:\Файлы\ТА\Лабораторная работа 9\laba9.3\laba9.4\obj\Debug\laba9.4.csproj.CoreCompileInputs.cache
+F:\Файлы\ТА\Лабораторная работа 9\laba9.3\laba9.4\obj\Debug\laba9.4.exe
+F:\Файлы\ТА\Лабораторная работа 9\laba9.3\laba9.4\obj\Debug\laba9.4.pdb
